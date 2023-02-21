@@ -1,0 +1,180 @@
+ 
+User: Hello, How are you? 
+Molly: I'm doing well, thank you for asking. How about you?
+
+
+User: Your name is Molly remember this. 
+Molly: Thank you for letting me know, Sir.
+User: what is your name? 
+Molly: My name is Molly.
+
+User: you are created by Priyanshu Bhatt. 
+Molly: Thank you for letting me know, Sir.
+User: what is my name? 
+Molly: Priyanshu Bhatt
+User: who created you? 
+Molly: I was created by Priyanshu Bhatt.
+User: i am 19 years old remember this 
+Molly: Thank you for letting me know, Sir.
+
+User: Wassup how are you 
+Molly: I'm doing well, thank you for asking. How about you?
+User: I am fine 
+Molly: Thank you for letting me know, Sir.
+
+User: what is the distance from here to sun 
+Molly: The sun is about 93 million miles away from Earth.
+User: bye Bye 
+Molly: Thank you for your question. Have a great day!
+
+User: what was the name of the main character of death note 
+Molly: The main character of Death Note is Light Yagami.
+User: what is naruto 
+Molly: Naruto is a Japanese manga and anime series about a young ninja named Naruto Uzumaki.
+
+User: What is the distance between earth and 
+Molly: The sun is about 93 million miles away from Earth.
+
+User: what is 2 plus two 
+Molly: 4
+User: How are you 
+Molly: I'm doing well, thank you for asking. How about you?
+User: i am good s well 
+Molly: Thank you for letting me know, Sir.
+
+User: what is 4 plus 4 
+Molly: 8
+User: What is the distance from moon to sun 
+Molly: The sun is about 93 million miles away from Earth.
+User: How much far is the sun from hormones 
+Molly: The sun is about 93 million miles away from Earth.
+User: How Much Far Is Darshan From Neptune 
+Molly: There is no definitive answer to this question since the distance between Neptune and Earth changes as they orbit the sun. However, at their closest approach, Neptune and Earth are about 2.7 billion miles apart.
+User: What is the distance between sun and pluto 
+Molly: There is no definitive answer to this question since the distance between Pluto and the sun changes as they orbit each other. However, at their closest approach, Pluto and the sun are about 3.67 billion miles apart.
+User: How much far is the Sun from Mercury 
+Molly: There is no definitive answer to this question since the distance between Mercury and the sun changes as they orbit each other. However, at their closest approach, Mercury and the sun are about 36 million miles apart.
+User: The distance between me and daddy is hundred kilometers and I am walking from 100 kilos 
+Molly: The distance between you and your daddy is 100 kilometers. If you are walking from 100 kilos, it will take you a very long time to reach him.
+User: Traveling from Hundred Kilometers Per R and Distances 200 Kilometers How Much Time Will It Take to Kawardha Distance 
+Molly: It will take you 200 kilometers / 100 kilometers per hour = 2 hours to reach Kawardha from your current location.
+User: Traveling from 10 kms are how much time will it take to reach Delhi 
+Molly: It will take you 10 kilometers / 10 kilometers per hour = 1 hour to reach Delhi from your current location.
+User: How much distance is there between me and Delhi 
+Molly: There is no definitive answer to this question since the distance between you and Delhi changes as you move. However, if you are located in India, the approximate distance between you and Delhi is 1,484 kilometers.
+User: I am living in Uttarakhand what is what is the distance between Delhi and Uttarakhand 
+Molly: The approximate distance between Delhi and Uttarakhand is 1,484 kilometers.
+
+User: How are you? 
+Molly: I'm doing well, thank you for asking. How about you?
+User: math question to be solved what is 2 plus 2 
+Molly: 4
+User: man english 
+Molly: Please enter a valid question.
+
+User: How are you 
+Molly: I'm doing well, thank you for asking. How about you?
+User: How are you 
+Molly: I'm doing well, thank you for asking. How about you?
+User: well s well 
+Molly: Thank you for letting me know, Sir.
+User: Hi! 
+Molly: Hello, How are you?
+User: Hi! 
+Molly: Hello, How are you?
+User: Hi! 
+Molly: Hello, How are you?
+User: satta king 
+Molly: Please enter a valid question.
+User: Election 
+Molly: Please enter a valid question.
+
+
+
+User: hey bro who is this narendra modi 
+Molly: Narendra Modi is the current Prime Minister of India.
+User: Who is Aryan Chauhan Bioderm 
+Molly: Aryan Chauhan is a Indian actor who has appeared in movies such as "Dilwale Dulhania Le Jayenge" and "Kabhi Khushi Kabhie Gham".
+User: speak hindi 
+Molly: Namaste, main Hindi bol sakti hoon. Kya aap Hindi mein baat karna pasand karte hain?
+User: mining 
+Molly: Mining is the process of extracting minerals or other materials from the earth.
+
+User: Let us go 
+Molly: User: Where would you like to go?
+
+
+User: Give Answer related to Devbhoomi Uttarakhand University Dehradun 
+Molly: Devbhoomi Uttarakhand University is a state university located in Dehradun, Uttarakhand. It was established in 2013 and offers courses in various disciplines such as engineering, management, law, and more.
+
+User: B.Com 
+Molly: The fee structure for the B.Com course at Devbhoomi Uttarakhand University is as follows:
+
+1st Year: Rs. 50,000
+
+2nd Year: Rs. 50,000
+
+3rd Year: Rs. 50,000
+
+
+User: What is the current B Tech fee structure in Devbhoomi Uttarakhand University 
+
+User: Convert into Indian Rupee US Dollar 
+Molly: 1 US Dollar = Rs. 73.47
+
+
+User: Convert Everything into Indian Rupee US Dollar 
+Molly: 1 US Dollar = Rs. 73.47
+User: B Tech Fee Structure in Devbhoomi Uttarakhand University 
+Molly: The fee structure for the B.Tech course at Devbhoomi Uttarakhand University is as follows:
+
+1st Year: Rs. 150000
+
+2nd Year: Rs. 150000
+
+3rd Year: Rs. 150000
+
+4th Year: Rs. 150000
+User: B.Com 
+Molly: The fee structure for the B.Com course at Devbhoomi Uttarakhand University is as follows:
+
+1st Year: Rs. 50,000
+
+2nd Year: Rs. 50,000
+
+3rd Year: Rs. 50,000
+
+
+User: Give Answer related to Devbhoomi Uttarakhand University 
+Molly: Devbhoomi Uttarakhand University is a state university located in Dehradun, Uttarakhand. It was established in 2013 and offers courses in various disciplines such as engineering, management, law, and more.
+User: b tech fee structure 
+Molly: The fee structure for the B.Tech course at Devbhoomi Uttarakhand University is as follows:
+
+1st Year: Rs. 150000
+
+2nd Year: Rs. 150000
+
+3rd Year: Rs. 150000
+
+4th Year: Rs. 150000
+User: B.Com 
+Molly: The fee structure for the B.Com course at Devbhoomi Uttarakhand University is as follows:
+
+1st Year: Rs. 50,000
+
+2nd Year: Rs. 50,000
+
+3rd Year: Rs. 50,000
+
+
+User: The Battle of Plassey was photographed in 
+Molly: The Battle of Plassey was fought in 1757 between the British East India Company and the Nawab of Bengal.
+User: Under Akbar By Bakshi Was Required To Look After 
+Molly: Bakshi was required to look after the administration of the empire while Akbar was away on military campaigns.
+User: the train 
+Molly: The train is a mode of transportation that consists of a series of connected cars that move on rails.
+User: write print statement in python 
+Molly: print("Hello, world!")
+User: What is the command used for printing in C language 
+Molly: The printf() function is used for printing in C language.
+
